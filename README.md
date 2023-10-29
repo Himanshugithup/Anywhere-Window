@@ -9,4 +9,4 @@
     - [Installation](#installation)
 
 ## About the Project
-<img src="C:\Users\himanshu pandey\Downloads\Leave you footprints.jpeg">
+<img src="https://github.com/Himanshugithup/Anywhere-Window/blob/main/travel%20itinerary%20plan/images/Leave%20you%20footprints.jpeg">
